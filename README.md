@@ -1,6 +1,6 @@
 # CodementorX Projects
 
-Code related to [Codementor](https://codementor.io) and [CodementorX](https://hire.codementor.io) projects.
+Code related to [Codementor](https://codementor.io) and [CodementorX](https://hire.codementor.io) freelance projects.
 
 CodementorX is an invite-only network of top software and app developers available for hire.
 
